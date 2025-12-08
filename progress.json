@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:38:35.423Z",
+  "generated_at": "2026-09-18T08:38:38.632Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -91,6 +91,32 @@
       "last_pushed_at": "2025-12-06T14:41:31.130Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2025-12-08T10:23:58.868Z",
+      "last_pushed_at": "2025-12-08T10:23:58.868Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:117": {
+      "kind": "problem",
+      "id": "117",
+      "title": "Compute Orthonormal Basis for 2D Vectors",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/117",
+      "path": "problems/0117-compute-orthonormal-basis-for-2d-vectors",
+      "first_solved_at": "2025-12-08T10:51:03.480Z",
+      "last_pushed_at": "2025-12-08T10:51:03.480Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
