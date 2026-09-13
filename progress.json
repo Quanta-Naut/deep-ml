@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:38:44.216Z",
+  "generated_at": "2026-09-18T08:38:45.970Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -221,6 +221,71 @@
       "last_pushed_at": "2026-09-12T14:03:57.264Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-13T13:31:22.606Z",
+      "last_pushed_at": "2026-09-13T13:31:22.606Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-13T13:42:16.425Z",
+      "last_pushed_at": "2026-09-13T13:42:16.425Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2026-09-13T14:15:12.481Z",
+      "last_pushed_at": "2026-09-13T14:15:12.481Z",
+      "language": "python",
+      "lines": 53
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-09-13T14:54:14.417Z",
+      "last_pushed_at": "2026-09-13T14:54:14.417Z",
+      "language": "python",
+      "lines": 40
+    },
+    "problem:29": {
+      "kind": "problem",
+      "id": "29",
+      "title": "Random Shuffle of Dataset",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/29",
+      "path": "problems/0029-random-shuffle-of-dataset",
+      "first_solved_at": "2026-09-13T15:34:18.504Z",
+      "last_pushed_at": "2026-09-13T15:34:18.504Z",
+      "language": "python",
+      "lines": 10
     }
   }
 }
