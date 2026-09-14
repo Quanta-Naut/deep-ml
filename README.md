@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 22 problems · 0 labs · 0 math
+**27** solved · 27 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,8 +13,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-02-17 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-09-14 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2025-12-06 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-12-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-09-14 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-14 | [solution](problems/0083-dot-product-calculator) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-02-17 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-12 | [solution](problems/0016-feature-scaling-implementation) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2025-12-08 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -26,7 +29,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-13 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-09-13 | [solution](problems/0024-single-neuron) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-13 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-09-14 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-12-06 | [solution](problems/0002-transpose-of-a-matrix) |
+| [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-09-14 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-02-17 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2025-12-08 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-02-17 | [solution](problems/0009-matrix-times-matrix) |

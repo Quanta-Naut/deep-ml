@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T08:38:45.970Z",
+  "generated_at": "2026-09-18T08:38:47.918Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -286,6 +286,71 @@
       "last_pushed_at": "2026-09-13T15:34:18.504Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:55": {
+      "kind": "problem",
+      "id": "55",
+      "title": "2D Translation Matrix Implementation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/55",
+      "path": "problems/0055-2d-translation-matrix-implementation",
+      "first_solved_at": "2026-09-14T12:25:42.421Z",
+      "last_pushed_at": "2026-09-14T12:25:42.421Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-09-14T12:31:37.160Z",
+      "last_pushed_at": "2026-09-14T12:31:37.160Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-14T12:33:54.308Z",
+      "last_pushed_at": "2026-09-14T12:33:54.308Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-09-14T14:43:02.433Z",
+      "last_pushed_at": "2026-09-14T14:43:02.433Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:1271": {
+      "kind": "problem",
+      "id": "1271",
+      "title": "Tensor Puzzle: Extract the Diagonal",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1271",
+      "path": "problems/1271-tensor-puzzle-extract-the-diagonal",
+      "first_solved_at": "2026-09-14T14:45:14.700Z",
+      "last_pushed_at": "2026-09-14T14:45:14.700Z",
+      "language": "python",
+      "lines": 6
     }
   }
 }
